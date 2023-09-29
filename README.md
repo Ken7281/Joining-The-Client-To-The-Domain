@@ -12,6 +12,8 @@ This tutorial outlines joining the client to the domain using virtual machines i
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Client-1 virtual machine
+- DC-1 virtual machine
 
 *On the Azure portal go to the client-1 virtual machine and select the network interface* 
 
